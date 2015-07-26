@@ -1,5 +1,3 @@
-# couchbase-sample
-
 ## Views
 As a rule of thumb, all repository access methods which are not "by a specific key" require a backing view to find the one or more matching entities. 
 
@@ -22,4 +20,4 @@ function (doc, meta) {
 }
 ```
 
-[More info on Spring Data Couchbase(]http://docs.spring.io/autorepo/docs/spring-data-couchbase/1.3.1.RELEASE/reference/html)
+[More info on Spring Data Couchbase](http://docs.spring.io/autorepo/docs/spring-data-couchbase/1.3.1.RELEASE/reference/html)
