@@ -21,3 +21,13 @@ function (doc, meta) {
 ```
 
 [More info on Spring Data Couchbase](http://docs.spring.io/autorepo/docs/spring-data-couchbase/1.3.1.RELEASE/reference/html)
+
+##Sample payload
+```
+{
+  "id":"nickel_back",
+  "firstName":"Nickel",
+  "lastName":"Back",
+  "email":"a@b.com"
+}
+```
