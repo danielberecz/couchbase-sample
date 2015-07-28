@@ -1,4 +1,4 @@
-package com.couchbase.sample.configuration;
+package com.daniel.sample.configuration;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.couchbase.config.AbstractCouchbaseConfiguration;
@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.List;
 
 @Configuration
-public class CouchbaseConfig extends AbstractCouchbaseConfiguration {
+public class CouchbaseConnectionConfig extends AbstractCouchbaseConfiguration {
 
     @Override
     protected List<String> bootstrapHosts() {

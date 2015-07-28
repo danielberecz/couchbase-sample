@@ -1,4 +1,4 @@
-package com.couchbase.sample.dto;
+package com.daniel.sample.dto;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.couchbase.core.mapping.Document;

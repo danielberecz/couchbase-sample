@@ -1,7 +1,7 @@
-package com.couchbase.sample.dao;
+package com.daniel.sample.dao;
 
 import com.couchbase.client.protocol.views.Query;
-import com.couchbase.sample.dto.User;
+import com.daniel.sample.dto.User;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;
